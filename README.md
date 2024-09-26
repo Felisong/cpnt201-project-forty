@@ -1,6 +1,6 @@
 # Hello!
 
-I am Carolina, and this is for a school assignment. I wanted to add credit for using [this site](https://html5up.net/forty)
+I am Carolina, and this is for a school assignment. I wanted to add credit for using [this site](https://html5up.net/forty) as a template.
 
 ---
 
@@ -40,3 +40,16 @@ cd repository
 
 4. Start Working:
    You can now start editing files, committing changes, and pushing updates back to the remote repository.
+
+### Forking the Repository
+
+1. Navigate to the GitHub repository you want to fork.
+
+2. In the top-right corner of the repository page, click the "Fork" button.
+
+3. GitHub will process your request for a few seconds. You'll see a message like "Forking [repository name]..."
+
+4. Once complete, you'll be redirected to your new forked repository under your GitHub account.
+
+Then Clone the Repository.
+
